@@ -1,8 +1,7 @@
 ### Hello! I'm Gabriele Leão⭐
 
 
-- 👩‍💻 I’m currently working on data engineer and and data science 👩‍💻
-- 😄 Pronouns: she/her 😄
+- 👩‍💻 I’m currently working on data engineer and data science 👩‍💻
 - ⚡ Fun fact: I'm an environmental engineering who loves the tech world ⚡
 ##
 
